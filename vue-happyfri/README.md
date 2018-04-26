@@ -1,4 +1,4 @@
-# vue-demo
+# vue-happyfri
 
 > A Vue.js project
 
